@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Mr. Melody Maker",
+  "base_artist": "NONA REEVES",
+  "createdAt": "2025-12-03T13:32:49.705890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Melody Maker",
+      "artist": "NONA REEVES",
+      "has_synced": true,
+      "path": "select/01_Mr._Melody_Maker_NONA_REEVES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr. Melody Maker",
+      "artist": "Nona Reeves",
+      "has_synced": false,
+      "path": "select/pl_01_Mr._Melody_Maker_Nona_Reeves.txt"
+    }
+  ]
+}
